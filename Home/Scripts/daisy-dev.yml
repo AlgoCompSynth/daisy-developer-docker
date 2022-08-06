@@ -1,0 +1,5 @@
+name: daisy-dev
+channels:
+  - conda-forge
+dependencies:
+  - python
