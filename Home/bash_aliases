@@ -1,2 +1,2 @@
-alias r-reticulate="mamba activate r-reticulate"
+alias daisy-dev="mamba activate daisy-dev"
 alias deac="mamba deactivate"

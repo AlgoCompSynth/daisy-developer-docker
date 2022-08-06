@@ -12,7 +12,6 @@ apt-get install -qqy --no-install-recommends \
   build-essential \
   bzip2 \
   ca-certificates \
-  cmake \
   curl \
   file \
   git \
